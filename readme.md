@@ -22,3 +22,4 @@ Mango Server
    c. quantity,
    d. totalPrice,
    e. status
+   f. address
